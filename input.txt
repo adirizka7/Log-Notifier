@@ -1,0 +1,25 @@
+2019-01-07 14:52:33 Warning data // 1
+
+2019-01-07 14:52:34 Critical data // 1
+
+2019-01-07 14:52:35 Info data // 1
+
+2019-01-07 14:52:36 Critical data // 2
+
+2019-01-07 14:52:36 Info data
+
+2019-01-07 14:52:37 Critical data
+
+2019-01-07 14:52:38 Critical data 
+
+2019-01-07 14:52:39 Critical data
+
+2019-01-07 14:52:40 Critical data // send to subs
+
+2019-01-07 14:52:41 warning data
+
+2019-01-07 14:52:42 Critical data
+
+2019-01-07 14:52:43 warning data
+
+2019-01-07 14:52:44 Critical data
